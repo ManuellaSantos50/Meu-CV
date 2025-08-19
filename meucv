@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CurriculoWebManu</title>
+</head>
+<body>
+    <img src="img/foto.jpeg" alt="foto">
+    <h1>MANUELLA DAMIANNA CORREA DOS SANTOS</h1>
+    <p><strong>Email:</strong> manuellaempreendedora50@gmail.com<strong>
+        Telefone:</strong> (91) 98484-1915</p>
+     <p><strong>Instagram:</strong><a href="#">https://www.instagram.com/eusou_manuella_?igsh=cGZvaGNxZicamWpq </a></p>
+      <p><strong>GitHub:</strong><a href="#">https://github.com/ManuellaSantos50</a></p>  
+        <h2><b>Objetivo Profissional</b></h2>
+        <p>Busco uma posição como Desenvolvedora Web, HTML5, CSS3 e JavaScript </p>
+        <h2><b>Escolaridade</b></h2>
+        <p><strong>Ensino Médio Técnico</strong> - EETEPA Anísio Teixeira</p>
+        <p><strong>Ténico em Informática</strong>- Em andamento(EETEPA IEEP)</p>
+
+        <h2><b>Experiência Profissional</b></h2>
+        <p>- Viva Serviços de Mão de Obra Ltda. <b> Apontador</b></p>
+        <ul>
+            <li>Registro de Folha de ponto.</li>
+            <li>Gestão de Almoxarifado em canteiro de Obra.</li>
+            <li>Recebimento e conferência de Nota Fiscal.</li>
+            <li>Compras e Recebimento de Material.</li>
+        </ul>
+        <h2><b>Qualificação Profissional</b></h2>
+        <ul>
+            <li>Informática I</li>
+            <li>Lógica de Programação</li>
+            <li>Html5-Fundamentos para construção de páginas Web modernas</li>
+            <li>Introdução a Inteligência Artificial Aplicada a Dados com a Heineken</li>
+            <li>Versionamento de Código com Git e GitHub</li>
+        </ul>
+</body>
+</html>
+
+
+body{
+    font-family: verdana, sans-serif;
+    background-color: azure;
+    
+}
+
+.img{
+    width: 85px;
+    height: 75px;
+    align-items: center;
+    
+}
+text{
+    text-align: center;
+}
